@@ -1,2 +1,2 @@
-# VCS- my project
+# VCS-
 Test case, bug report, slides.
